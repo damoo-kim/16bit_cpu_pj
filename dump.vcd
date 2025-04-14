@@ -1,0 +1,47 @@
+$date
+	Mon Apr 14 00:29:09 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_top $end
+$scope module top_0 $end
+$scope module sram_0 $end
+$var reg 16 ! \mem[0] [15:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module tb_top $end
+$scope module top_0 $end
+$scope module sram_0 $end
+$var reg 16 " \mem[1] [15:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module tb_top $end
+$scope module top_0 $end
+$scope module sram_0 $end
+$var reg 16 # \mem[2] [15:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx #
+bx "
+bx !
+$end
+#2000
+b11 #
+b10 "
+b1 !
+#35000
+bx !
+#40000
