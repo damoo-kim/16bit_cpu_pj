@@ -4,7 +4,7 @@
 본 프로젝트는 Verilog를 활용하여 16-bit CPU를 RTL 단계에서 설계하고, 시뮬레이션을 통해 동작을 검증한 프로젝트입니다. 커스텀 명령어 세트(ISA)를 기반으로 동작하는 CPU DUT를 구현하였으며, SRAM에 저장된 10개의 학생 성적 데이터를 읽어와 총합을 계산하고 메모리에 다시 저장하는 어셈블리 프로그램을 구동합니다.
 
 - **진행 기간**: 2025. 03 ~ 2025. 04
-- **사용 기술**: Verilog, RTL Simulation (Xcelium 등 EDA Tool 활용 가능)
+- **사용 기술**: Verilog, RTL Simulation (vivado 환경)
 - **주요 목표**: 
 - Memory-Reference 및 Register-Reference 명령어 세트의 완벽한 RTL 구현
 - SRAM 메모리 맵 구성 및 Testbench를 통한 Memory Dump 환경 구축
